@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W4vCnoeEkcUEfKy5CGZQcIR4yIkGQ0N4UISRqF/VctPe3aXmbL62rUuspLeC56nCkTaKQC9e/I5suKcFb+ic7A==",
+  "dgSpecHash": "5QeP7g0oPM/6inrtXXIdvz8NbrVBRUhzCUSngu5wvctAeo/Ecvod6aXN/Wx/jZ6jlRLGvp/9IkdafpDMB+EqNQ==",
   "success": true,
-  "projectFilePath": "C:\\1 Playgrounds\\AzureCosmosDbWithEntityFrameworkCore\\CosmosDB.EF\\CosmosDB.EF.csproj",
+  "projectFilePath": "C:\\1 Playgrounds\\AzureCosmosDbWithEntityFrameworkCore\\CosmosDB.EF\\CosmosDB.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alex.oliveira\\.nuget\\packages\\microsoft.azure.cosmos\\3.12.0\\microsoft.azure.cosmos.3.12.0.nupkg.sha512",
     "C:\\Users\\alex.oliveira\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

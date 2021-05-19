@@ -6242,9 +6242,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\1 Playgrounds\\AzureCosmosDbWithEntityFrameworkCore\\CosmosDB.EF\\CosmosDB.EF.csproj",
-      "projectName": "CosmosDB.EF",
-      "projectPath": "C:\\1 Playgrounds\\AzureCosmosDbWithEntityFrameworkCore\\CosmosDB.EF\\CosmosDB.EF.csproj",
+      "projectUniqueName": "C:\\1 Playgrounds\\AzureCosmosDbWithEntityFrameworkCore\\CosmosDB.EF\\CosmosDB.Infra.csproj",
+      "projectName": "CosmosDB.Infra",
+      "projectPath": "C:\\1 Playgrounds\\AzureCosmosDbWithEntityFrameworkCore\\CosmosDB.EF\\CosmosDB.Infra.csproj",
       "packagesPath": "C:\\Users\\alex.oliveira\\.nuget\\packages\\",
       "outputPath": "C:\\1 Playgrounds\\AzureCosmosDbWithEntityFrameworkCore\\CosmosDB.EF\\obj\\",
       "projectStyle": "PackageReference",

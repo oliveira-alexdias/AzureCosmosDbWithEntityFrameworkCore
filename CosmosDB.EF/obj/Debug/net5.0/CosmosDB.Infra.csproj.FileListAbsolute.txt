@@ -1,0 +1,15 @@
+C:\1 Playgrounds\AzureCosmosDbWithEntityFrameworkCore\CosmosDB.EF\bin\Debug\net5.0\CosmosDB.Infra.deps.json
+C:\1 Playgrounds\AzureCosmosDbWithEntityFrameworkCore\CosmosDB.EF\bin\Debug\net5.0\CosmosDB.Infra.dll
+C:\1 Playgrounds\AzureCosmosDbWithEntityFrameworkCore\CosmosDB.EF\bin\Debug\net5.0\ref\CosmosDB.Infra.dll
+C:\1 Playgrounds\AzureCosmosDbWithEntityFrameworkCore\CosmosDB.EF\bin\Debug\net5.0\CosmosDB.Infra.pdb
+C:\1 Playgrounds\AzureCosmosDbWithEntityFrameworkCore\CosmosDB.EF\bin\Debug\net5.0\CosmosDb.Domain.dll
+C:\1 Playgrounds\AzureCosmosDbWithEntityFrameworkCore\CosmosDB.EF\bin\Debug\net5.0\CosmosDb.Domain.pdb
+C:\1 Playgrounds\AzureCosmosDbWithEntityFrameworkCore\CosmosDB.EF\obj\Debug\net5.0\CosmosDB.Infra.csprojAssemblyReference.cache
+C:\1 Playgrounds\AzureCosmosDbWithEntityFrameworkCore\CosmosDB.EF\obj\Debug\net5.0\CosmosDB.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\1 Playgrounds\AzureCosmosDbWithEntityFrameworkCore\CosmosDB.EF\obj\Debug\net5.0\CosmosDB.Infra.AssemblyInfoInputs.cache
+C:\1 Playgrounds\AzureCosmosDbWithEntityFrameworkCore\CosmosDB.EF\obj\Debug\net5.0\CosmosDB.Infra.AssemblyInfo.cs
+C:\1 Playgrounds\AzureCosmosDbWithEntityFrameworkCore\CosmosDB.EF\obj\Debug\net5.0\CosmosDB.Infra.csproj.CoreCompileInputs.cache
+C:\1 Playgrounds\AzureCosmosDbWithEntityFrameworkCore\CosmosDB.EF\obj\Debug\net5.0\CosmosDB.Infra.csproj.CopyComplete
+C:\1 Playgrounds\AzureCosmosDbWithEntityFrameworkCore\CosmosDB.EF\obj\Debug\net5.0\CosmosDB.Infra.dll
+C:\1 Playgrounds\AzureCosmosDbWithEntityFrameworkCore\CosmosDB.EF\obj\Debug\net5.0\ref\CosmosDB.Infra.dll
+C:\1 Playgrounds\AzureCosmosDbWithEntityFrameworkCore\CosmosDB.EF\obj\Debug\net5.0\CosmosDB.Infra.pdb
